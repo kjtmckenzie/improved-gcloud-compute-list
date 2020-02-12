@@ -1,6 +1,6 @@
 # improved-gcloud-compute-list
 
-This utility uses node.js.  Please make sure to install that before continuing.  This is already built into the GCP cloud shell.
+This utility uses node.js.  Please make sure to install that before continuing.  This is already built into the GCP cloud shell.  You must also install the [gcloud SDK](https://cloud.google.com/sdk/install).
 
 ### Installing the client library
 
